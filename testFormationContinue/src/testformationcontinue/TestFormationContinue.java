@@ -10,13 +10,17 @@ package testformationcontinue;
  * @author Lomscroft
  */
 public class TestFormationContinue {
+    
+    public static void test2(){
+        
+    }
 
     public static void testAfficher() {
         System.out.println("Test");
     }
     public static void main(String[] args) {
         
-        testAfficher();
+        testAfficher();        
     }
     
 }

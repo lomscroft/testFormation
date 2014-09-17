@@ -11,11 +11,12 @@ package testformationcontinue;
  */
 public class TestFormationContinue {
 
-    public void testAfficher() {
+    public static void testAfficher() {
         System.out.println("Test");
     }
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        testAfficher();
     }
     
 }
